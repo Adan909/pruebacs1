@@ -71,6 +71,7 @@
             this.btnVerTope.TabIndex = 3;
             this.btnVerTope.Text = "Ver Tope";
             this.btnVerTope.UseVisualStyleBackColor = true;
+            this.btnVerTope.Click += new System.EventHandler(this.btnVerTope_Click);
             // 
             // lbLista
             // 
