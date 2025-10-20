@@ -58,15 +58,15 @@ namespace pruebacs
             // Verifica si hay elementos en la lista
             if (lbLista.Items.Count > 0)
             {
-                // Obtener el primer nombre (índice 0)
+   
                 string primerNombre = lbLista.Items[0].ToString();
 
-                // Mostrar en un MessageBox
+   
                 MessageBox.Show("El primer nombre es: " + primerNombre);
             }
             else
             {
-                // Si la lista está vacía
+
                 MessageBox.Show("La lista está vacía.");
             }
         }
