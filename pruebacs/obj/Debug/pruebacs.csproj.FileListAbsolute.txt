@@ -1,0 +1,11 @@
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.csproj.AssemblyReference.cache
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.Form1.resources
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.Properties.Resources.resources
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.csproj.GenerateResource.cache
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.csproj.CoreCompileInputs.cache
+C:\Users\labc112\Documents\pruebacs\pruebacs\bin\Debug\pruebacs.exe.config
+C:\Users\labc112\Documents\pruebacs\pruebacs\bin\Debug\pruebacs.exe
+C:\Users\labc112\Documents\pruebacs\pruebacs\bin\Debug\pruebacs.pdb
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.exe
+C:\Users\labc112\Documents\pruebacs\pruebacs\obj\Debug\pruebacs.pdb

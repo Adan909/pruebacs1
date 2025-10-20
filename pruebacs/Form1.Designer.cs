@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tbtNombre = new System.Windows.Forms.TextBox();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnVerTope = new System.Windows.Forms.Button();
@@ -36,12 +36,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // textBox1
+            // tbtNombre
             // 
-            this.textBox1.Location = new System.Drawing.Point(105, 32);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 0;
+            this.tbtNombre.Location = new System.Drawing.Point(105, 32);
+            this.tbtNombre.Name = "tbtNombre";
+            this.tbtNombre.Size = new System.Drawing.Size(100, 20);
+            this.tbtNombre.TabIndex = 0;
             // 
             // btnAgregar
             // 
@@ -51,6 +51,7 @@
             this.btnAgregar.TabIndex = 1;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnEliminar
             // 
@@ -60,6 +61,7 @@
             this.btnEliminar.TabIndex = 2;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnVerTope
             // 
@@ -97,7 +99,7 @@
             this.Controls.Add(this.btnVerTope);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnAgregar);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.tbtNombre);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -107,7 +109,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox tbtNombre;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.Button btnVerTope;
